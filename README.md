@@ -9,4 +9,4 @@ https:
 
 <h3>Captura de tela:</h3>
 
-<img src="/assets/Captura de tela.jpg" alt="Minha Logo">
+<img  alt="Captura Aplicao">
