@@ -4,7 +4,7 @@ Com objetivo de criar um aplicativo que sorteia um amigo secreto. O usuario cria
 Ao clicar no botão "Sortear amigo", ele verifica qual foi o amigo sorteado.
 
 <h3>Deploy:</h3>
-https:
+https://github.com/KleberNunes007/AmigoSecretoOne/tree/main
 
 
 <h3>Captura de tela:</h3>
